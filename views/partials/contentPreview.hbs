@@ -1,0 +1,11 @@
+<script>
+  var fileId = '{{fileId}}';
+  var token = '{{token}}';
+  var preview = new Box.Preview();
+  preview.show(fileId, token, {
+      container: '.preview-container',
+      showAnnotations: true,
+      showDownload: true,
+      header: 'dark'
+  });
+</script>
