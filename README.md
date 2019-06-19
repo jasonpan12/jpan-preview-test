@@ -17,3 +17,6 @@ Assuming that the prerequisites are filled, follow these steps in order:
 # Prerequisites
 * A [Box View](https://developer.box.com/docs/box-view) Token, obtained from an "App Auth" app
 * Node.JS
+
+# Feature Requests
+File an Issue and tag it as an enhancement. I'd love to add features!
